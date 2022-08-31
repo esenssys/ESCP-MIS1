@@ -12,8 +12,6 @@ Doc Ref: ESS-324/220822/EXC-REV.01
 
 [1.Prerequisites and Installation](#c1)
 
-[1.mithos and Installation](#mitsos1)
-
 [2.Application Description and operation](#c2)
 
 # **Table of Figures**
@@ -41,7 +39,7 @@ Doc Ref: ESS-324/220822/EXC-REV.01
 ## 1. Prerequisites and Installation
 
 - This application requires NI LabVIEW runtime 2020 32bit to run. It can be downloaded for free from NI website.
-<a name="mitsos1"></a>
+
 As of writing this document the runtime can be downloaded from the following link:
 
 [https://www.ni.com/en-us/support/downloads/software-products/download.labview-runtime.html#460220](https://www.ni.com/en-us/support/downloads/software-products/download.labview-runtime.html%23460220)
