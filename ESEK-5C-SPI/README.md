@@ -7,6 +7,7 @@ Doc Ref: ESS-324/220822/EXC-REV.01
 | **Version** | **Date** | **Reason for change** | **Author** |
 | --- | --- | --- | --- |
 | 1 | 5/8/2022 | Initial version | C. Papazachariou |
+| 2 | 20/9/2022 | Installer instructions | C. Papazachariou |
 
 # **Table of Contents**
 
@@ -38,13 +39,14 @@ Doc Ref: ESS-324/220822/EXC-REV.01
 <a name="c1"></a>
 ## 1. Prerequisites and Installation
 
-- This application requires NI LabVIEW runtime 2020 32bit to run. It can be downloaded for free from NI website.
+To install the Pressure Sensor Evaluation Software: 
 
-As of writing this document the runtime can be downloaded from the following link:
+- Navigate to the “Volume” folder. 
 
-[https://www.ni.com/en-us/support/downloads/software-products/download.labview-runtime.html#460220](https://www.ni.com/en-us/support/downloads/software-products/download.labview-runtime.html%23460220)
+- Run ESCP-MIS1_Evaluation_Software_Setup.exe (as administrator if possible) and follow the installation wizard. 
 
-- The application itself does not require installation. In order to run, simply navigate to the downloaded folder that contains the executable named "ESEK-5C-SPI.exe" and run it.
+- Once the installation is complete run ESCP-MIS1_Evaluation_Software.exe
+
 
 <a name="c2"></a>
 ## 2. Application Description and operation
