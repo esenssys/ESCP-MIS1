@@ -1,0 +1,10 @@
+[Volume Id]
+DistributionGUID={52503C00-D61A-4D5C-A19E-9F6C0C72D90E}
+DistPackageGUID={4DD6B571-94ED-4715-B6FB-DF6208FFF235}
+DistributionVersion=1.0.0
+DistributionType=MDF
+DistributionLanguage=9
+Volume=1
+TotalNumberOfVolumesInDistribution=1
+ExePath=ESCP-MIS1_Evaluation_SW_Setup.exe
+UpdateInfoFile=supportfiles\updateInfo.xml
