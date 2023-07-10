@@ -66,7 +66,7 @@ ESCP-MIS1_Evaluation_Software.exe
 A general overview of the application graphical interface can be seen in
 the following picture.
 
-<img src="./media/image1.png"
+<img src="./.media/image1.png"
 style="width:6.84167in;height:3.42986in" />
 
 <span id="_Toc110611786" class="anchor"></span>Figure 1: Software GUI
@@ -75,7 +75,7 @@ To start using the software, first select the appropriate COM port, then
 click the “Connect” button which will change to “Disconnect” once the
 connection is established. Clicking it again will disconnect the device.
 
-<img src="./media/image2.png"
+<img src="./.media/image2.png"
 style="width:2.90625in;height:0.73958in" />
 
 <span id="_Toc110611787" class="anchor"></span>Figure 2: Connect -
@@ -88,7 +88,7 @@ sensors will be displayed in the list. The list describes the port of
 the Evaluation Kit where each sensor is connected, a status indicator
 led, the sensor Serial Number, and the current firmware version.
 
-<img src="./media/image3.png" style="width:2.73958in;height:3.27083in"
+<img src="./.media/image3.png" style="width:2.73958in;height:3.27083in"
 alt="Graphical user interface, application Description automatically generated" />
 
 <span id="_Toc110611788" class="anchor"></span>Figure 3: Scan Devices
@@ -96,7 +96,7 @@ alt="Graphical user interface, application Description automatically generated" 
 To begin sampling the sensors, first setup the appropriate sample rate
 which is 500 ms by default, then click on the “Sampling” toggle switch.
 
-<img src="./media/image4.png" style="width:1.92708in;height:0.59375in"
+<img src="./.media/image4.png" style="width:1.92708in;height:0.59375in"
 alt="Graphical user interface Description automatically generated with medium confidence" />
 
 <span id="_Toc110611789" class="anchor"></span>Figure 4: Sample rate and
@@ -106,7 +106,7 @@ The sampled pressure and temperature data per sensor, are displayed in
 an array format and the user can select one of the two quantities to
 plot as a graph
 
-<img src="./media/image5.png" style="width:3in;height:3.27083in"
+<img src="./.media/image5.png" style="width:3in;height:3.27083in"
 alt="Graphical user interface Description automatically generated" />
 
 <span id="_Toc110611790" class="anchor"></span>Figure 5: Sampled data
@@ -118,13 +118,13 @@ enabling selection, color selection for each plot line displayed, as
 well as a Graph depth control for selecting how much time should be
 displayed in the graph window.
 
-<img src="./media/image6.png" style="width:2.66667in;height:0.65625in"
+<img src="./.media/image6.png" style="width:2.66667in;height:0.65625in"
 alt="Graphical user interface, text, application Description automatically generated" />
 
 <span id="_Toc110611791" class="anchor"></span>Figure 6: Plot quantity
 selection
 
-<img src="./media/image7.png" style="width:5.93537in;height:3.70825in"
+<img src="./.media/image7.png" style="width:5.93537in;height:3.70825in"
 alt="Chart, line chart Description automatically generated" />
 
 <span id="_Toc110611792" class="anchor"></span>Figure 7: Plots and plot
@@ -138,7 +138,7 @@ each measurement in the file in the following format:
 
 *Year-month-date_hour-minute-second.millisecond*
 
-<img src="./media/image8.png" style="width:5.87582in;height:0.7501in"
+<img src="./.media/image8.png" style="width:5.87582in;height:0.7501in"
 alt="Background pattern Description automatically generated with medium confidence" />
 
 <span id="_Toc110611793" class="anchor"></span>Figure 8: Log button and
